@@ -1,0 +1,27 @@
+$destRoot/
+.vs/
+.idea/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Assets/
+Config/
+Content/
+Scripts/
+
+*.sln
+*.VC.db
+*.VC.opendb
+*.DotSettings.user
+.vsconfig
+
+# Local analysis artifacts not part of the UE5 project
+bilibili_p182.html
+fix_encoding.py
+hex_dump.txt
+information.txt
+p182_contact_sheet.jpg
+p182_first_frame.jpg
+p182_video_only.m4s
+p182_frames/
